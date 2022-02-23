@@ -1,3 +1,3 @@
-# Violet-s-Vinyls-
+# Violets-Vinyls
 
-HOMEWORK CSS/HTML 
+Homework - HTML/CSS
