@@ -1,0 +1,108 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+
+
+body
+
+{
+
+    background-color: black;
+   
+}
+
+h1 {
+text-align: center;
+    color: white;
+    font-size: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+    background-image:url(Records.jpg);
+ 
+
+}
+h2
+
+{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+color: white;
+
+
+}
+
+.selection {
+
+    background-color: #ef8354;
+}
+
+
+.release
+
+{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+
+}
+
+
+.vinyl
+
+{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+
+}
+
+
+h2
+
+{
+
+    background-color: #0e7c7b;
+
+
+}
+
+.buy
+
+{
+
+color: white;
+
+}
+
+.music
+
+{
+
+    background-color: #9c538b;
+
+
+
+}
+
+.events
+
+{
+
+
+    color: white;
+}
+
+.footer
+
+{
+
+    color: white;
+    text-align: center;
+    
+}
+
+
